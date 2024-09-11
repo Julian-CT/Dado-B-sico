@@ -1,2 +1,13 @@
-# Dado-B-sico
-Repositório criado com o objetivo de desenvolver o projeto Dado Básico da matéria de LAB de engenharia de software
+# Dado-Básico
+Repositório criado com o objetivo de desenvolver o projeto Dado Básico da matéria de LAB de engenharia de software.
+
+O GRUPO
+
+Gabriel - 
+
+Julian de Campos Teixeira - 10400765
+
+Luis Gustavo Aguirre Castanho - 
+
+Luiz Henrique Bonilha Pasquinelli - 
+
