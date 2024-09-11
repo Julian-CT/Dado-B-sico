@@ -3,7 +3,7 @@ Repositório criado com o objetivo de desenvolver o projeto Dado Básico da mat�
 
 O GRUPO
 
-Gabriel - 
+Gabriel Augusto Ribeiro Gomes - 10389313
 
 Julian de Campos Teixeira - 10400765
 
