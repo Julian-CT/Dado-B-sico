@@ -9,5 +9,7 @@ Julian de Campos Teixeira - 10400765
 
 Luis Gustavo Aguirre Castanho - 10401017
 
-Luiz Henrique Bonilha Pasquinelli - 
+Luiz Henrique Bonilha Pasquinelli - 10401415
+
+Acesse a [WIKI](https://github.com/Julian-CT/Dado-B-sico/wiki)
 
