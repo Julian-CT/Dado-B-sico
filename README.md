@@ -7,7 +7,7 @@ Gabriel Augusto Ribeiro Gomes - 10389313
 
 Julian de Campos Teixeira - 10400765
 
-Luis Gustavo Aguirre Castanho - 
+Luis Gustavo Aguirre Castanho - 10401017
 
 Luiz Henrique Bonilha Pasquinelli - 
 
